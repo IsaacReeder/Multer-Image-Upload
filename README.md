@@ -21,3 +21,10 @@
     _  _ _  _ _    ___ ____ ____
     |\/| |  | |     |  |___ |__/
     |  | |__| |___  |  |___ |  \ .
+    
+    ****************************************************
+    
+    **Installation:** 
+    Multer-Image-Upload $cd client && npm install
+    client $cd ../backend && npm install
+    backend $npm run dev
